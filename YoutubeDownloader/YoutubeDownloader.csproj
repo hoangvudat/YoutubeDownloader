@@ -4,6 +4,7 @@
     <OutputType>WinExe</OutputType>
     <UseWPF>true</UseWPF>
     <ApplicationIcon>../favicon.ico</ApplicationIcon>
+    <BaseOutputPath>D:\02.Ca_Nhan\03.DuAn\12.YouTubeDownloader\02.Resources\01.SourseCode\03.Build</BaseOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
